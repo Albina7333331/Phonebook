@@ -1,2 +1,15 @@
-Sidorova Anna Anatolevna +79851234567
+Mironov Igor Ivanovich +79161234567
+BelgorodSidorova Anna Anatolevna +79851234567
+OrelAlferova Alla Nikolaevna +79161234567
+PskovSidorova Anna Anatolevna +79851234567
 Orel
+
+Alferova Alla Nikolaevna +79161234567
+Pskov
+
+Mironov Igor Ivanovich +79161234567
+Belgorod
+Osipov Anatolii Ivanovich +79123467898
+Pskov
+Orlova Marina Ivanovna +79165432367
+Moscow

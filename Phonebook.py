@@ -73,9 +73,11 @@ def search_contact():
 def copy_contact():
     with open('phonebook.txt', 'r', encoding='UTF-8') as file:
         indata = file.read().rstrip().split('\n\n')
-    copy_phonebook=open('copy_phonebook.txt','w')
+    copy_phonebook=open('copy_phonebook.txt','a')
     number_contact=int(input("Введите номер контакта для копирования: "))
-    copy_phonebook.write(indata[number_contact])
+    copy_phonebook.write(indata[number_contact-1])
+    copy_phonebook.write('\n')
+    copy_phonebook.close
 def interface():
     with open('phonebook.txt', 'a', encoding='UTF-8'):
         pass
